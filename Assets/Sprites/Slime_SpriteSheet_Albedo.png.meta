@@ -1,0 +1,2041 @@
+fileFormatVersion: 2
+guid: 7717f51a3c4abbc4599e5b7671a72fc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3405908770882995423
+    second: Slime_SpriteSheet_Albedo_0
+  - first:
+      213: 1658126703988075199
+    second: Slime_SpriteSheet_Albedo_1
+  - first:
+      213: -5176599535241308114
+    second: Slime_SpriteSheet_Albedo_2
+  - first:
+      213: 1896265320837979345
+    second: Slime_SpriteSheet_Albedo_3
+  - first:
+      213: -8936701551016220934
+    second: Slime_SpriteSheet_Albedo_4
+  - first:
+      213: -8467762226085508006
+    second: Slime_SpriteSheet_Albedo_5
+  - first:
+      213: 1128752393619044090
+    second: Slime_SpriteSheet_Albedo_6
+  - first:
+      213: -7045190740297134081
+    second: Slime_SpriteSheet_Albedo_7
+  - first:
+      213: -3177084451070078412
+    second: Slime_SpriteSheet_Albedo_8
+  - first:
+      213: -7875274886791847982
+    second: Slime_SpriteSheet_Albedo_9
+  - first:
+      213: 4788294492603177644
+    second: Slime_SpriteSheet_Albedo_10
+  - first:
+      213: 6381378466951380763
+    second: Slime_SpriteSheet_Albedo_11
+  - first:
+      213: -6001451091083930735
+    second: Slime_SpriteSheet_Albedo_12
+  - first:
+      213: 5826330982657380703
+    second: Slime_SpriteSheet_Albedo_13
+  - first:
+      213: -9204240973165179846
+    second: Slime_SpriteSheet_Albedo_14
+  - first:
+      213: -4733361691251415430
+    second: Slime_SpriteSheet_Albedo_15
+  - first:
+      213: -8836392783178281065
+    second: Slime_SpriteSheet_Albedo_16
+  - first:
+      213: -6208739076494633565
+    second: Slime_SpriteSheet_Albedo_17
+  - first:
+      213: 4803440037757309688
+    second: Slime_SpriteSheet_Albedo_18
+  - first:
+      213: -4348565691076416897
+    second: Slime_SpriteSheet_Albedo_19
+  - first:
+      213: -8335174587449056227
+    second: Slime_SpriteSheet_Albedo_20
+  - first:
+      213: 7374533759302858885
+    second: Slime_SpriteSheet_Albedo_21
+  - first:
+      213: 5459814073318842915
+    second: Slime_SpriteSheet_Albedo_22
+  - first:
+      213: -3427612376913915230
+    second: Slime_SpriteSheet_Albedo_23
+  - first:
+      213: -7126457569858534711
+    second: Slime_SpriteSheet_Albedo_24
+  - first:
+      213: -5777700248284921631
+    second: Slime_SpriteSheet_Albedo_25
+  - first:
+      213: 6224139238735395806
+    second: Slime_SpriteSheet_Albedo_26
+  - first:
+      213: 7010457914562350358
+    second: Slime_SpriteSheet_Albedo_27
+  - first:
+      213: 1334937351667793334
+    second: Slime_SpriteSheet_Albedo_28
+  - first:
+      213: -1690389907314629810
+    second: Slime_SpriteSheet_Albedo_29
+  - first:
+      213: 8462903607292166795
+    second: Slime_SpriteSheet_Albedo_30
+  - first:
+      213: -1454212277142063728
+    second: Slime_SpriteSheet_Albedo_31
+  - first:
+      213: -3080739971960961654
+    second: Slime_SpriteSheet_Albedo_32
+  - first:
+      213: -6995392706638719408
+    second: Slime_SpriteSheet_Albedo_33
+  - first:
+      213: -5388828236266523262
+    second: Slime_SpriteSheet_Albedo_34
+  - first:
+      213: -4759286625415004830
+    second: Slime_SpriteSheet_Albedo_35
+  - first:
+      213: -580902184641444445
+    second: Slime_SpriteSheet_Albedo_36
+  - first:
+      213: 4200423713179444693
+    second: Slime_SpriteSheet_Albedo_37
+  - first:
+      213: 2254497056008578462
+    second: Slime_SpriteSheet_Albedo_38
+  - first:
+      213: -6640151976797834189
+    second: Slime_SpriteSheet_Albedo_39
+  - first:
+      213: -7212257160791641550
+    second: Slime_SpriteSheet_Albedo_40
+  - first:
+      213: 103961739386410042
+    second: Slime_SpriteSheet_Albedo_41
+  - first:
+      213: 4029672746141409138
+    second: Slime_SpriteSheet_Albedo_42
+  - first:
+      213: -1439620791076303409
+    second: Slime_SpriteSheet_Albedo_43
+  - first:
+      213: -5182840552443680091
+    second: Slime_SpriteSheet_Albedo_44
+  - first:
+      213: 8606067616081864633
+    second: Slime_SpriteSheet_Albedo_45
+  - first:
+      213: 7448649045101126188
+    second: Slime_SpriteSheet_Albedo_46
+  - first:
+      213: 3975657481465523418
+    second: Slime_SpriteSheet_Albedo_47
+  - first:
+      213: 745799533181342585
+    second: Slime_SpriteSheet_Albedo_48
+  - first:
+      213: -6240138429773162550
+    second: Slime_SpriteSheet_Albedo_49
+  - first:
+      213: 855441240810134618
+    second: Slime_SpriteSheet_Albedo_50
+  - first:
+      213: -6252879364885448445
+    second: Slime_SpriteSheet_Albedo_51
+  - first:
+      213: 7886808247941744261
+    second: Slime_SpriteSheet_Albedo_52
+  - first:
+      213: 8518178480184194039
+    second: Slime_SpriteSheet_Albedo_53
+  - first:
+      213: -2702969897931135667
+    second: Slime_SpriteSheet_Albedo_54
+  - first:
+      213: -8943357770495420597
+    second: Slime_SpriteSheet_Albedo_55
+  - first:
+      213: -8365522859215700917
+    second: Slime_SpriteSheet_Albedo_56
+  - first:
+      213: -8090250227342605243
+    second: Slime_SpriteSheet_Albedo_57
+  - first:
+      213: -9040222760938643462
+    second: Slime_SpriteSheet_Albedo_58
+  - first:
+      213: 7773350484913319128
+    second: Slime_SpriteSheet_Albedo_59
+  - first:
+      213: -1452819744247493133
+    second: Slime_SpriteSheet_Albedo_60
+  - first:
+      213: -577706727057012664
+    second: Slime_SpriteSheet_Albedo_61
+  - first:
+      213: 545438464618360140
+    second: Slime_SpriteSheet_Albedo_62
+  - first:
+      213: 3803133299532215007
+    second: Slime_SpriteSheet_Albedo_0
+  - first:
+      213: 8702989551724621964
+    second: Slime_SpriteSheet_Albedo_1
+  - first:
+      213: -9093093416099835998
+    second: Slime_SpriteSheet_Albedo_2
+  - first:
+      213: -3053709271492321745
+    second: Slime_SpriteSheet_Albedo_3
+  - first:
+      213: 5036819378560609681
+    second: Slime_SpriteSheet_Albedo_4
+  - first:
+      213: -5200419185605575112
+    second: Slime_SpriteSheet_Albedo_5
+  - first:
+      213: -460748849996979154
+    second: Slime_SpriteSheet_Albedo_6
+  - first:
+      213: 1397395692300299567
+    second: Slime_SpriteSheet_Albedo_7
+  - first:
+      213: 5633270238705375730
+    second: Slime_SpriteSheet_Albedo_8
+  - first:
+      213: 7508783498089129996
+    second: Slime_SpriteSheet_Albedo_9
+  - first:
+      213: 1622785252340849523
+    second: Slime_SpriteSheet_Albedo_10
+  - first:
+      213: 4759860543673332476
+    second: Slime_SpriteSheet_Albedo_11
+  - first:
+      213: -4040142426874565037
+    second: Slime_SpriteSheet_Albedo_12
+  - first:
+      213: 5020900359030021216
+    second: Slime_SpriteSheet_Albedo_13
+  - first:
+      213: -4278634174471577727
+    second: Slime_SpriteSheet_Albedo_14
+  - first:
+      213: -4221492912569401256
+    second: Slime_SpriteSheet_Albedo_15
+  - first:
+      213: 2778380096050879376
+    second: Slime_SpriteSheet_Albedo_16
+  - first:
+      213: 7373544161829466624
+    second: Slime_SpriteSheet_Albedo_17
+  - first:
+      213: -4398809438183903708
+    second: Slime_SpriteSheet_Albedo_18
+  - first:
+      213: 3061963600671315045
+    second: Slime_SpriteSheet_Albedo_19
+  - first:
+      213: -5143660771989350933
+    second: Slime_SpriteSheet_Albedo_20
+  - first:
+      213: -4707562613829766267
+    second: Slime_SpriteSheet_Albedo_21
+  - first:
+      213: 2959665531142313395
+    second: Slime_SpriteSheet_Albedo_22
+  - first:
+      213: -5659572740313515398
+    second: Slime_SpriteSheet_Albedo_23
+  - first:
+      213: 7528680610331342612
+    second: Slime_SpriteSheet_Albedo_24
+  - first:
+      213: 1688767850295000953
+    second: Slime_SpriteSheet_Albedo_25
+  - first:
+      213: 6824694567710336462
+    second: Slime_SpriteSheet_Albedo_26
+  - first:
+      213: 1339222195995877756
+    second: Slime_SpriteSheet_Albedo_27
+  - first:
+      213: -1459854218365183460
+    second: Slime_SpriteSheet_Albedo_28
+  - first:
+      213: 7943510163862392481
+    second: Slime_SpriteSheet_Albedo_29
+  - first:
+      213: 5189438792723808579
+    second: Slime_SpriteSheet_Albedo_30
+  - first:
+      213: -5486975166273343046
+    second: Slime_SpriteSheet_Albedo_31
+  - first:
+      213: 4569363115868686492
+    second: Slime_SpriteSheet_Albedo_32
+  - first:
+      213: 6760068403363910889
+    second: Slime_SpriteSheet_Albedo_33
+  - first:
+      213: -1753248892412202325
+    second: Slime_SpriteSheet_Albedo_34
+  - first:
+      213: -2298285222364634687
+    second: Slime_SpriteSheet_Albedo_35
+  - first:
+      213: -1138011749505391176
+    second: Slime_SpriteSheet_Albedo_36
+  - first:
+      213: -7144747522695191243
+    second: Slime_SpriteSheet_Albedo_37
+  - first:
+      213: -7486582456376973245
+    second: Slime_SpriteSheet_Albedo_38
+  - first:
+      213: -1163429623443285367
+    second: Slime_SpriteSheet_Albedo_39
+  - first:
+      213: -7016310856693271260
+    second: Slime_SpriteSheet_Albedo_40
+  - first:
+      213: -993805284018662694
+    second: Slime_SpriteSheet_Albedo_41
+  - first:
+      213: -3902715169759227648
+    second: Slime_SpriteSheet_Albedo_42
+  - first:
+      213: -2610462087877915502
+    second: Slime_SpriteSheet_Albedo_43
+  - first:
+      213: 2360469900426388200
+    second: Slime_SpriteSheet_Albedo_44
+  - first:
+      213: -3912970331184539647
+    second: Slime_SpriteSheet_Albedo_45
+  - first:
+      213: 7060846144546160686
+    second: Slime_SpriteSheet_Albedo_46
+  - first:
+      213: 5126932625404117034
+    second: Slime_SpriteSheet_Albedo_47
+  - first:
+      213: 3937216875569537109
+    second: Slime_SpriteSheet_Albedo_48
+  - first:
+      213: -216371699824935301
+    second: Slime_SpriteSheet_Albedo_49
+  - first:
+      213: -1763762089476106647
+    second: Slime_SpriteSheet_Albedo_50
+  - first:
+      213: 8336688962004109399
+    second: Slime_SpriteSheet_Albedo_51
+  - first:
+      213: -850311118230941095
+    second: Slime_SpriteSheet_Albedo_52
+  - first:
+      213: 9190350940956013844
+    second: Slime_SpriteSheet_Albedo_53
+  - first:
+      213: -2017503201427259702
+    second: Slime_SpriteSheet_Albedo_54
+  - first:
+      213: 5689872562707968908
+    second: Slime_SpriteSheet_Albedo_55
+  - first:
+      213: 7022227866984696906
+    second: Slime_SpriteSheet_Albedo_56
+  - first:
+      213: 7599842701457181748
+    second: Slime_SpriteSheet_Albedo_57
+  - first:
+      213: -6727835404746365599
+    second: Slime_SpriteSheet_Albedo_58
+  - first:
+      213: 589293089397195980
+    second: Slime_SpriteSheet_Albedo_59
+  - first:
+      213: -2343395945981446150
+    second: Slime_SpriteSheet_Albedo_60
+  - first:
+      213: 9138965583199743506
+    second: Slime_SpriteSheet_Albedo_61
+  - first:
+      213: -3161994108888763488
+    second: Slime_SpriteSheet_Albedo_62
+  - first:
+      213: -2933659767884413033
+    second: Slime_SpriteSheet_Albedo_63
+  - first:
+      213: -6464039599671001978
+    second: Slime_SpriteSheet_Albedo_64
+  - first:
+      213: -8310301912577636500
+    second: Slime_SpriteSheet_Albedo_65
+  - first:
+      213: 6568087025022404762
+    second: Slime_SpriteSheet_Albedo_66
+  - first:
+      213: 498283521590737142
+    second: Slime_SpriteSheet_Albedo_67
+  - first:
+      213: -8469385166487123568
+    second: Slime_SpriteSheet_Albedo_68
+  - first:
+      213: 2440250675725221694
+    second: Slime_SpriteSheet_Albedo_69
+  - first:
+      213: 7475212202197768513
+    second: Slime_SpriteSheet_Albedo_70
+  - first:
+      213: 6828012884015261636
+    second: Slime_SpriteSheet_Albedo_71
+  - first:
+      213: 5363948273923510155
+    second: Slime_SpriteSheet_Albedo_72
+  - first:
+      213: 5979272404494896511
+    second: Slime_SpriteSheet_Albedo_73
+  - first:
+      213: 1377344307753588194
+    second: Slime_SpriteSheet_Albedo_74
+  - first:
+      213: -5070613590931608231
+    second: Slime_SpriteSheet_Albedo_75
+  - first:
+      213: -1069284076500040854
+    second: Slime_SpriteSheet_Albedo_76
+  - first:
+      213: -6479790035141613166
+    second: Slime_SpriteSheet_Albedo_77
+  - first:
+      213: -186383487392583408
+    second: Slime_SpriteSheet_Albedo_78
+  - first:
+      213: -8511408192841832604
+    second: Slime_SpriteSheet_Albedo_79
+  - first:
+      213: -5218133005927079261
+    second: Slime_SpriteSheet_Albedo_80
+  - first:
+      213: -5090603758910633194
+    second: Slime_SpriteSheet_Albedo_81
+  - first:
+      213: 5452974020938107344
+    second: Slime_SpriteSheet_Albedo_82
+  - first:
+      213: 3418470431369186164
+    second: Slime_SpriteSheet_Albedo_83
+  - first:
+      213: 4523555847495012974
+    second: Slime_SpriteSheet_Albedo_84
+  - first:
+      213: 756688711280771006
+    second: Slime_SpriteSheet_Albedo_85
+  - first:
+      213: 2715335513318257438
+    second: Slime_SpriteSheet_Albedo_86
+  - first:
+      213: -8016463972373713832
+    second: Slime_SpriteSheet_Albedo_87
+  - first:
+      213: 4607842646771981497
+    second: Slime_SpriteSheet_Albedo_88
+  - first:
+      213: -8730542186402392642
+    second: Slime_SpriteSheet_Albedo_89
+  - first:
+      213: -4969977510043267996
+    second: Slime_SpriteSheet_Albedo_90
+  - first:
+      213: 4342798663590117567
+    second: Slime_SpriteSheet_Albedo_91
+  - first:
+      213: 4219908595271443449
+    second: Slime_SpriteSheet_Albedo_92
+  - first:
+      213: 3962681850869475824
+    second: Slime_SpriteSheet_Albedo_93
+  - first:
+      213: -3641921107699118861
+    second: Slime_SpriteSheet_Albedo_94
+  - first:
+      213: -3601721788460963169
+    second: Slime_SpriteSheet_Albedo_95
+  - first:
+      213: 3239706089536583739
+    second: Slime_SpriteSheet_Albedo_96
+  - first:
+      213: -4995386379434698442
+    second: Slime_SpriteSheet_Albedo_97
+  - first:
+      213: -318534143403086581
+    second: Slime_SpriteSheet_Albedo_98
+  - first:
+      213: 9207559155120998994
+    second: Slime_SpriteSheet_Albedo_99
+  - first:
+      213: 3518754675762250910
+    second: Slime_SpriteSheet_Albedo_100
+  - first:
+      213: 1244734781538835670
+    second: Slime_SpriteSheet_Albedo_101
+  - first:
+      213: -4512592060694241392
+    second: Slime_SpriteSheet_Albedo_102
+  - first:
+      213: 3781742553039612932
+    second: Slime_SpriteSheet_Albedo_103
+  - first:
+      213: 7491032284355625169
+    second: Slime_SpriteSheet_Albedo_104
+  - first:
+      213: 4240775893732021231
+    second: Slime_SpriteSheet_Albedo_105
+  - first:
+      213: -7594999193796198625
+    second: Slime_SpriteSheet_Albedo_106
+  - first:
+      213: -8347216009277077225
+    second: Slime_SpriteSheet_Albedo_107
+  - first:
+      213: 7909173253716436831
+    second: Slime_SpriteSheet_Albedo_108
+  - first:
+      213: -7557973098884748185
+    second: Slime_SpriteSheet_Albedo_109
+  - first:
+      213: 7107058329149026220
+    second: Slime_SpriteSheet_Albedo_110
+  - first:
+      213: 7539885738338885964
+    second: Slime_SpriteSheet_Albedo_111
+  - first:
+      213: 2401262929323106777
+    second: Slime_SpriteSheet_Albedo_112
+  - first:
+      213: -1618511211660046762
+    second: Slime_SpriteSheet_Albedo_113
+  - first:
+      213: 1989739636935364362
+    second: Slime_SpriteSheet_Albedo_114
+  - first:
+      213: 4706176652572486478
+    second: Slime_SpriteSheet_Albedo_115
+  - first:
+      213: 7044853225641819570
+    second: Slime_SpriteSheet_Albedo_116
+  - first:
+      213: 1068649175975869382
+    second: Slime_SpriteSheet_Albedo_117
+  - first:
+      213: 7418167336540742186
+    second: Slime_SpriteSheet_Albedo_118
+  - first:
+      213: 7131901650142350977
+    second: Slime_SpriteSheet_Albedo_119
+  - first:
+      213: 4195847994640696005
+    second: Slime_SpriteSheet_Albedo_120
+  - first:
+      213: -7579598171488739295
+    second: Slime_SpriteSheet_Albedo_121
+  - first:
+      213: 8281825172127057004
+    second: Slime_SpriteSheet_Albedo_122
+  - first:
+      213: 3152519337087864571
+    second: Slime_SpriteSheet_Albedo_123
+  - first:
+      213: -5568655747537948284
+    second: Slime_SpriteSheet_Albedo_124
+  - first:
+      213: -2860135186120523851
+    second: Slime_SpriteSheet_Albedo_125
+  - first:
+      213: -6151784997216125184
+    second: Slime_SpriteSheet_Albedo_126
+  - first:
+      213: 5996029697635883351
+    second: Slime_SpriteSheet_Albedo_127
+  - first:
+      213: -8353627755259220905
+    second: Slime_SpriteSheet_Albedo_128
+  - first:
+      213: 3836945061778833064
+    second: Slime_SpriteSheet_Albedo_129
+  - first:
+      213: -3429497801620586104
+    second: Slime_SpriteSheet_Albedo_130
+  - first:
+      213: -7003603756874787952
+    second: Slime_SpriteSheet_Albedo_131
+  - first:
+      213: 5444050155756292450
+    second: Slime_SpriteSheet_Albedo_132
+  - first:
+      213: -3865697766130151420
+    second: Slime_SpriteSheet_Albedo_133
+  - first:
+      213: 1909404384448716224
+    second: Slime_SpriteSheet_Albedo_134
+  - first:
+      213: -5926179644982617216
+    second: Slime_SpriteSheet_Albedo_135
+  - first:
+      213: 4478827536147774527
+    second: Slime_SpriteSheet_Albedo_136
+  - first:
+      213: -3913541135140750370
+    second: Slime_SpriteSheet_Albedo_137
+  - first:
+      213: 7989078255669485577
+    second: Slime_SpriteSheet_Albedo_138
+  - first:
+      213: -4684044998033135364
+    second: Slime_SpriteSheet_Albedo_139
+  - first:
+      213: 635760605288855873
+    second: Slime_SpriteSheet_Albedo_140
+  - first:
+      213: -1283526647391713957
+    second: Slime_SpriteSheet_Albedo_141
+  - first:
+      213: 6986520336666262745
+    second: Slime_SpriteSheet_Albedo_142
+  - first:
+      213: 6881433537467268697
+    second: Slime_SpriteSheet_Albedo_143
+  - first:
+      213: -8654670427615362869
+    second: Slime_SpriteSheet_Albedo_144
+  - first:
+      213: 5678507774915022571
+    second: Slime_SpriteSheet_Albedo_145
+  - first:
+      213: -498231571622010674
+    second: Slime_SpriteSheet_Albedo_146
+  - first:
+      213: 4124301407993857855
+    second: Slime_SpriteSheet_Albedo_147
+  - first:
+      213: -1373197729539447599
+    second: Slime_SpriteSheet_Albedo_148
+  - first:
+      213: -4130577720459136333
+    second: Slime_SpriteSheet_Albedo_149
+  - first:
+      213: 9061946113284149778
+    second: Slime_SpriteSheet_Albedo_150
+  - first:
+      213: 3611426344743178645
+    second: Slime_SpriteSheet_Albedo_151
+  - first:
+      213: -5237811108083794034
+    second: Slime_SpriteSheet_Albedo_152
+  - first:
+      213: 5385638399042039591
+    second: Slime_SpriteSheet_Albedo_153
+  - first:
+      213: -256850218495888487
+    second: Slime_SpriteSheet_Albedo_154
+  - first:
+      213: 1315187848342237626
+    second: Slime_SpriteSheet_Albedo_155
+  - first:
+      213: 2864573785815996052
+    second: Slime_SpriteSheet_Albedo_156
+  - first:
+      213: -1713639106036770888
+    second: Slime_SpriteSheet_Albedo_157
+  - first:
+      213: 7127088755581143535
+    second: Slime_SpriteSheet_Albedo_158
+  - first:
+      213: -134488094630997142
+    second: Slime_SpriteSheet_Albedo_159
+  - first:
+      213: -4092469729715512964
+    second: Slime_SpriteSheet_Albedo_160
+  - first:
+      213: -7254482121778952604
+    second: Slime_SpriteSheet_Albedo_161
+  - first:
+      213: 1447930407010567374
+    second: Slime_SpriteSheet_Albedo_162
+  - first:
+      213: -5506816115706559504
+    second: Slime_SpriteSheet_Albedo_163
+  - first:
+      213: 1204683248366309660
+    second: Slime_SpriteSheet_Albedo_164
+  - first:
+      213: -3326548809187204060
+    second: Slime_SpriteSheet_Albedo_165
+  - first:
+      213: 1086246919547927829
+    second: Slime_SpriteSheet_Albedo_166
+  - first:
+      213: -2647027211880122201
+    second: Slime_SpriteSheet_Albedo_167
+  - first:
+      213: -6143451386266773087
+    second: Slime_SpriteSheet_Albedo_168
+  - first:
+      213: -318555108014132666
+    second: Slime_SpriteSheet_Albedo_169
+  - first:
+      213: -2800953903696048815
+    second: Slime_SpriteSheet_Albedo_170
+  - first:
+      213: 7468839820033576227
+    second: Slime_SpriteSheet_Albedo_171
+  - first:
+      213: 7726752724266042259
+    second: Slime_SpriteSheet_Albedo_172
+  - first:
+      213: -6393884024015770864
+    second: Slime_SpriteSheet_Albedo_173
+  - first:
+      213: -9095377713899928846
+    second: Slime_SpriteSheet_Albedo_174
+  - first:
+      213: -8729258176347263016
+    second: Slime_SpriteSheet_Albedo_175
+  - first:
+      213: -3643397841167291335
+    second: Slime_SpriteSheet_Albedo_176
+  - first:
+      213: 2624759106364139341
+    second: Slime_SpriteSheet_Albedo_177
+  - first:
+      213: -2882436313355802381
+    second: Slime_SpriteSheet_Albedo_178
+  - first:
+      213: 5778166805859109889
+    second: Slime_SpriteSheet_Albedo_179
+  - first:
+      213: -4238313277464365989
+    second: Slime_SpriteSheet_Albedo_180
+  - first:
+      213: -887624195142420262
+    second: Slime_SpriteSheet_Albedo_181
+  - first:
+      213: -2590695323322463664
+    second: Slime_SpriteSheet_Albedo_182
+  - first:
+      213: -4047677078934367535
+    second: Slime_SpriteSheet_Albedo_183
+  - first:
+      213: -7678444998295558832
+    second: Slime_SpriteSheet_Albedo_184
+  - first:
+      213: 2219099670762827386
+    second: Slime_SpriteSheet_Albedo_185
+  - first:
+      213: -6957885223387548798
+    second: Slime_SpriteSheet_Albedo_186
+  - first:
+      213: 1596034243286025303
+    second: Slime_SpriteSheet_Albedo_187
+  - first:
+      213: 8299603324584953207
+    second: Slime_SpriteSheet_Albedo_188
+  - first:
+      213: 6109272531202267807
+    second: Slime_SpriteSheet_Albedo_189
+  - first:
+      213: 5277325418207022170
+    second: Slime_SpriteSheet_Albedo_190
+  - first:
+      213: 167161719458694400
+    second: Slime_SpriteSheet_Albedo_191
+  - first:
+      213: 6385549768928627664
+    second: Slime_SpriteSheet_Albedo_192
+  - first:
+      213: -5327045164018579078
+    second: Slime_SpriteSheet_Albedo_193
+  - first:
+      213: 2089636942132174640
+    second: Slime_SpriteSheet_Albedo_194
+  - first:
+      213: -4961962402407966276
+    second: Slime_SpriteSheet_Albedo_195
+  - first:
+      213: 8152494380137130681
+    second: Slime_SpriteSheet_Albedo_196
+  - first:
+      213: -9082617886399785228
+    second: Slime_SpriteSheet_Albedo_197
+  - first:
+      213: -2728641728925669389
+    second: Slime_SpriteSheet_Albedo_198
+  - first:
+      213: 6924382623367081713
+    second: Slime_SpriteSheet_Albedo_199
+  - first:
+      213: 5528576293129493961
+    second: Slime_SpriteSheet_Albedo_200
+  - first:
+      213: -8550704015984200742
+    second: Slime_SpriteSheet_Albedo_201
+  - first:
+      213: 5506969351946890017
+    second: Slime_SpriteSheet_Albedo_202
+  - first:
+      213: 1700373489929427855
+    second: Slime_SpriteSheet_Albedo_203
+  - first:
+      213: 4645119291474257056
+    second: Slime_SpriteSheet_Albedo_204
+  - first:
+      213: 3083818912914429945
+    second: Slime_SpriteSheet_Albedo_205
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2b318069177c430800000000000000
+      internalID: 3803133299532215007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c807b7a03ea37c870800000000000000
+      internalID: 8702989551724621964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af0def17b7dec180800000000000000
+      internalID: -9093093416099835998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e1269c89b0f95d0800000000000000
+      internalID: -3053709271492321745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19da8e0e98066e540800000000000000
+      internalID: 5036819378560609681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e7adebd4664d7b0800000000000000
+      internalID: -5200419185605575112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24a241bc571b99f0800000000000000
+      internalID: -460748849996979154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d683a7afb846310800000000000000
+      internalID: 1397395692300299567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f950dd8f656d2e40800000000000000
+      internalID: 5633270238705375730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08eaeaeece843860800000000000000
+      internalID: 7508783498089129996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bd480d69a458610800000000000000
+      internalID: 1622785252340849523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2fb0612fb6e0240800000000000000
+      internalID: 4759860543673332476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e282c4ed78ee7c0800000000000000
+      internalID: -4040142426874565037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c9d905642dda540800000000000000
+      internalID: 5020900359030021216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f56c233ec3f94c0800000000000000
+      internalID: -4278634174471577727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 704
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850c87cff8e3a65c0800000000000000
+      internalID: -4221492912569401256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bd0241af9ce8620800000000000000
+      internalID: 2778380096050879376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00230853957145660800000000000000
+      internalID: 7373544161829466624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ea9623f1a44f2c0800000000000000
+      internalID: -4398809438183903708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564903dfba74e7a20800000000000000
+      internalID: 3061963600671315045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be59678b7cb0e98b0800000000000000
+      internalID: -5143660771989350933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58374c49eb06baeb0800000000000000
+      internalID: -4707562613829766267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b594bd9e18d21920800000000000000
+      internalID: 2959665531142313395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 576
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7af02114982571b0800000000000000
+      internalID: -5659572740313515398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417bb2e502f3b7860800000000000000
+      internalID: 7528680610331342612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ffee09965bf6710800000000000000
+      internalID: 1688767850295000953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5a9e0fc8f26be50800000000000000
+      internalID: 6824694567710336462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7127a3ed7fd59210800000000000000
+      internalID: 1339222195995877756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1adc72b25e8dbbe0800000000000000
+      internalID: -1459854218365183460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae09b258640d3e60800000000000000
+      internalID: 7943510163862392481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3414fef4617940840800000000000000
+      internalID: 5189438792723808579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab133e258295ad3b0800000000000000
+      internalID: -5486975166273343046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98002b5b83a96f30800000000000000
+      internalID: 4569363115868686492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e419df756690dd50800000000000000
+      internalID: 6760068403363910889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba27ce4eb653ba7e0800000000000000
+      internalID: -1753248892412202325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c12d6064c9da10e0800000000000000
+      internalID: -2298285222364634687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5a280e758f430f0800000000000000
+      internalID: -1138011749505391176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535a6eb8bf1c8dc90800000000000000
+      internalID: -7144747522695191243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348aaf9ebe05a1890800000000000000
+      internalID: -7486582456376973245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a1f7debeaaadfe0800000000000000
+      internalID: -1163429623443285367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425b419237e01ae90800000000000000
+      internalID: -7016310856693271260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2592e0c5b4532f0800000000000000
+      internalID: -993805284018662694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00119f60b35c6d9c0800000000000000
+      internalID: -3902715169759227648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c8968df86c5cbd0800000000000000
+      internalID: -2610462087877915502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2aaed3ed212c020800000000000000
+      internalID: 2360469900426388200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1085a11373652b9c0800000000000000
+      internalID: -3912970331184539647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e204c53982a2df160800000000000000
+      internalID: 7060846144546160686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20c2942f06862740800000000000000
+      internalID: 5126932625404117034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550eef753edc3a630800000000000000
+      internalID: 3937216875569537109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ebc7cd51b4ffcf0800000000000000
+      internalID: -216371699824935301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966d97479bbd587e0800000000000000
+      internalID: -1763762089476106647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_SpriteSheet_Albedo_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758cc27f07ed1b370800000000000000
+      internalID: 8336688962004109399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
